@@ -1,0 +1,20 @@
+.color1{
+    color: red;
+}
+.color2{
+    color: green;
+}
+.inc{
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+}
+.dec{
+    margin-right: 20px;
+    color: white;
+    background-color: blueviolet;
+}
+.double{
+    background-color: red;
+    color: white;
+}
